@@ -1,5 +1,3 @@
-# milena-portfolio
-
 # Portfólio — Milena Sertão Ribeiro
 
 Sou estudante de Engenharia de Gestão e Ciência e Tecnologia (UFABC) e estagiária em Políticas de Crédito PJ.
