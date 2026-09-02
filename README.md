@@ -6,7 +6,6 @@ Atuo com **SQL**, **manutenção de motores** (agrupamento de clientes e antecip
 **especificações técnicas** em projetos com times de tecnologia.
 
 ## Projetos que você encontrará aqui
-- **SQL aplicado a crédito PJ:** exemplos didáticos de agrupamento de clientes e antecipação de recebíveis.
+- **SQL aplicado a crédito:** 
 - **Dashboards em Power BI/Excel:** modelos de relatórios com KPIs de crédito (dados sintéticos).
 - **Automação em Python:** scripts para geração, limpeza e validação de dados.
-- **Especificações de Produto:** exemplos de documentação e fluxos criados por mim.
