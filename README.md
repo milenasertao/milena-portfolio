@@ -1,6 +1,6 @@
 # Portfólio — Milena Sertão Ribeiro
 
-Sou estudante de Engenharia de Gestão e Ciência e Tecnologia (UFABC) e estagiária em Políticas de Crédito PJ.
+Sou estudante de Ciência e Tecnologia e Ciência de Dados (UFABC) e atuo com Políticas de Crédito PF.
 Atuo com **SQL**, **manutenção de motores** (agrupamento de clientes e antecipação de recebíveis),
 **estruturação de dados**, **relatórios/reportes para áreas parceiras** (Comercial, TI, Cadastro) e
 **especificações técnicas** em projetos com times de tecnologia.
